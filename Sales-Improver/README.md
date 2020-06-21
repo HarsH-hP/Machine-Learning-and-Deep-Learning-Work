@@ -1,3 +1,4 @@
+# Sales Improver
 # Machine Learning model based on Apriori Algorithm
 
 The model is forming rules for increasing the sales of the supermarket using Apriori algorithm.
