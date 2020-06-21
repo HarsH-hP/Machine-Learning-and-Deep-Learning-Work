@@ -1,3 +1,4 @@
+# Categorizing Customers for business - 2
 # Hierarchical Clustering
 Here the dataset contains 200 data of customers and its details. We want to categorize customers 
 on the basis of their Salary and Spending Score.
