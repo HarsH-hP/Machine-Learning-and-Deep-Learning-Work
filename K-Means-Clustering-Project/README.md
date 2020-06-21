@@ -1,3 +1,4 @@
+# Categorising Customers for business
 # K Means Clustering
 Here the dataset contains 200 data of customers and its details. 
 I categorized customers on the basis of their Salary and Spending Score.
