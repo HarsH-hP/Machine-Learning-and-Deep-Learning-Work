@@ -1,3 +1,4 @@
+# Purchasing From Ads Predictor
 # Naive Bayes Algorithm
 The dataset is Social_Network_Ads and it contains the data of customers who clicks on ads and buys or doesn't buy car. The dataset contains the data of customers using which we need to build model to classify that the customer will buy a car or not.
 
